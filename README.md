@@ -1,4 +1,6 @@
-# Test
+# Task Manager  
+
+started with [this design](https://dribbble.com/shots/25058444-Dashboard-My-Task) from dribble.
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
