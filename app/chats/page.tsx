@@ -80,7 +80,7 @@ export default function ChatsPage() {
         {
           id: "msg_3",
           senderId: "people_0",
-          content: "/placeholder.svg?height=200&width=300&text=Landing+Page+Design",
+          content: "https://res.cloudinary.com/ds574fco0/image/upload/v1753698766/mock/4_qvrdhf.jpg",
           type: "image",
           timestamp: "10:35 AM",
           status: "read",
@@ -131,7 +131,7 @@ export default function ChatsPage() {
         {
           id: "msg_8",
           senderId: "people_8",
-          content: "/placeholder.svg?height=150&width=250&text=Performance+Chart",
+          content: "https://res.cloudinary.com/ds574fco0/image/upload/v1753698766/mock/1_wtodgu.jpg",
           type: "image",
           timestamp: "9:05 AM",
           status: "read",
@@ -176,7 +176,7 @@ export default function ChatsPage() {
         {
           id: "msg_12",
           senderId: "people_2",
-          content: "/placeholder.svg?height=180&width=280&text=Bug+Report+Screenshot",
+          content: "https://res.cloudinary.com/ds574fco0/image/upload/v1753698766/mock/2_tnkblo.jpg",
           type: "image",
           timestamp: "Yesterday 4:32 PM",
           status: "read",
@@ -227,7 +227,7 @@ export default function ChatsPage() {
         {
           id: "msg_17",
           senderId: "people_9",
-          content: "/placeholder.svg?height=160&width=240&text=Brand+Guidelines",
+          content: "https://res.cloudinary.com/ds574fco0/image/upload/v1753698766/mock/3_dkb7tc.jpg",
           type: "image",
           timestamp: "8:10 AM",
           status: "read",
@@ -264,7 +264,7 @@ export default function ChatsPage() {
         {
           id: "msg_20",
           senderId: "people_12",
-          content: "/placeholder.svg?height=200&width=320&text=Campaign+Analytics",
+          content: "https://res.cloudinary.com/ds574fco0/image/upload/v1753698765/mock/0_ewyfdz.jpg",
           type: "image",
           timestamp: "7:02 AM",
           status: "read",
@@ -315,7 +315,7 @@ export default function ChatsPage() {
         {
           id: "msg_25",
           senderId: "people_10",
-          content: "/placeholder.svg?height=180&width=300&text=Project+Roadmap",
+          content: "https://res.cloudinary.com/ds574fco0/image/upload/v1753698766/mock/4_qvrdhf.jpg",
           type: "image",
           timestamp: "Yesterday 2:10 PM",
           status: "read",
